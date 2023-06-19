@@ -54,7 +54,7 @@ nav ul li{
     margin-top: -160px;
 }
 #h2{
-    margin-left: 320px;
+    margin-left: 400px;
     font-size: 30px;
     margin-top: -20px;
 }
@@ -62,45 +62,45 @@ nav ul li{
     display: flex;
 }
 .Part1{
-margin-right: 50px;
+margin-left: 80px;
 border: solid;
 border-color:black
 }
 .Part2{
-    margin-right: 40px;
+    margin-left: 80px;
     border: solid;
     border-color: black;
 }
 .Part3{
-    margin-right: 70px;
+   margin-left: 80px;
     border: solid;
     border-color:black;
 }
 #p{
-font-size: medium;
+font-size: 15px;
 }
 #p2{
-    font-size: medium;
+    font-size: 15px;
 }
-#p3{
-    font-size: medium;
+#Word{
+    font-size: 15px;
 }
 #office img{
 width: 130px;
-height: 25vh;
+height: 23vh;
 margin-left: 600px;
 margin-top: -500px;
 }
 #royale img{
     width: 150px;
     height: 30vh;
-    margin-left: 300px;
+    margin-left: 330px;
     margin-top: -600px;
 }
 #h{
     font-size: 40px;
 }
-#p{
+#Picks{
     font-size: 20px;
 }
 #Button{
@@ -130,25 +130,137 @@ margin-top: -500px;
     text-align: center;
     font-size: 40px;
 }
-#lawson img{
+#lawsonn img{
     width: 280px;
-    height: 300px;
+    height: 260px;
     margin-left: 800px;
-    margin-bottom: -15px;
+    margin-bottom: -20px;
 }
 #caldwell img{
-    width: 280px;
-    height: 300px;
-    margin-top: -340px;
+    width: 290px;
+    height: 260px;
+    margin-top: -315px;
     margin-left: 450px;
 }
 #shell img{
-    width: 280px;
-    height: 300px;
-    margin-top: -650px;
-    margin-left: 100px;
+    width: 270px;
+    height: 280px;
+    margin-top: -520px;
+    margin-left: 120px;
 }
-#p3{
+#Muse{
     font-size: 40px;
     text-align: center;
+}
+#living img{
+    width: 400px;
+    height: 280px;
+    margin-left: 560px;
+}
+#dinning img{
+    width: 300px;
+    height: 270px;
+    margin-left: 230px;
+    margin-top: -320px;
+}
+#sofaset img{
+        width: 300px;
+        height: 270px;
+        margin-left: 660px; 
+}
+#indoor img{
+    width: 400px;
+    height: 270px;
+    margin-left: 220px;
+    margin-top: -310px;
+}
+#view{
+color: white;
+background-color: black;
+padding: 10px 20px;
+margin-left: 600px;
+}
+.Sub{
+    background-color: tan;
+    width: 700px;
+    height: 60vh;
+    margin-left: 250px;
+    padding-left: 70px;
+    padding-top: 40px;
+    font-size: 40px;
+    font-weight: 120;
+}
+#homess{
+    width: 250px;
+    height: 200px;
+    margin-left: 260px;
+    margin-top: -120px;
+}
+#get{
+    color: white;
+    background-color: black;
+    padding: 10px 15px;
+}
+#R1{
+    font-size: 16px;
+    margin-left: 230px;
+    margin-top: -75px;
+}
+#office2{
+    font-size: 16px;
+    margin-left: 470px;
+    margin-top: -60px;
+}
+#Help{
+margin-left: 500px;
+margin-top: -60px;
+}
+#support{
+    margin-left: 700px;
+    margin-top: -75px;
+}
+#Download{
+    margin-left: 900px;
+    margin-top: -80px;
+}
+#Furn{
+    margin-top: 30px;
+    margin-left: 200px;
+}
+#icons{
+   margin-top: 50px;
+   margin-left: 200px;
+   margin-bottom: 20px;
+}
+#lawson{
+  margin-left: 120px; 
+}
+#caldwale{
+    margin-left: 460px;
+    margin-top: -38px;
+}
+#shelly{
+    margin-left: 800px;
+    margin-top: -40px;
+}
+#plus1{
+    margin-left: 280px;
+    margin-top: -23px;
+}
+#plus2{
+    margin-left: 620px;
+    margin-top: -26px;
+}
+#plus3{
+    margin-left: 930px;
+    margin-top: -22px;
+}#arrow{
+margin-left: 310px;
+font-size: 20px;
+margin-top: -80px;
+}
+#arrow2{
+margin-left: 550px;
+font-size: 20px;
+margin-top: -30px;
 }
